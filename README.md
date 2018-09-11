@@ -3,7 +3,7 @@
 
 ### https://www.apress.com/us/book/TBD
 
-![](Wickham-Practical-Java-ML.jpg)
+![](Wickham-Practical-Java-ML-Cover.jpg)
 
 # About the Book
 Insert TBD 
