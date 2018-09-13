@@ -23,7 +23,7 @@ This new book by author Mark Wickham explores Machine Learning with a goal to he
 * One of the fastest growing sources of data is sensor data. Embedded devices often produce sensor data, enabling a significant opportunity to deploy ML solutions for these devices. The book will show readers how to implement ML solutions for sensor data using Java.
 
 # Project-Based approach
-The book uses a **_project-based approach_**. Unlike most books on the market today, The book provides **_complete working code_** for all of the projects.
+The book uses a **_project-based approach_**. and provides **_complete working code_** for all of the projects.
 * **_D3 Visualization_** - This project will demonstrate how to produce data visualizations on the Desktop Browser using the D3 Javascript library.
 * **_Data Visualization_** - Android app loads data and displays a visualization of the data within a WebView control. The application uses the D3 Javascript library, and demonstrates several useful visualizations for machine learning.
 * **_Google Cloud Platform Cloud Speech API_** -.This Android application demonstrates access to deep learning functionality through a publicly available API.
