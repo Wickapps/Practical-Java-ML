@@ -1,7 +1,7 @@
 # Practical-Java-ML
 #### by: Mark Wickham
 
-### https://www.apress.com/us/book/TBD
+### https://www.apress.com/us/book/9781484239506
 
 ![](Wickham-Practical-Java-ML-Cover.jpg)
 
@@ -41,7 +41,7 @@ The book uses a **_project-based approach_**. Unlike most books on the market to
 The book will be of most value to experienced Java developers who have not implemented ML techniques before. The book will help explain the various ML techniques that are now feasible due to recent advances in performance, storage, and algorithms. 
 The book will explain how these new techniques allow developers to achieve interesting new functionality that was not previously possible with traditional development approaches.
 
-### https://www.apress.com/us/book/TBD
+### https://www.apress.com/us/book/9781484239506
 
 # About the Author
 Mark Wickham is a frequent speaker at Android developer conferences and has written two books, Practical Android and Practical Java Machine Learning. As a a freelance Android developer, Mark currently resides in Dallas, TX after residing in China for most of the past 20 years. While at Motorola, Mark led product management, product marketing, and software development teams in the Asia Pacific region. Mark has a degree in Computer Science and Physics from Creighton University, and MBA from the University of Washington and studied at the Hong Kong University of Science and Technology. Mark is also active as a freelance video producer, photographer, and enjoys recording live music.
