@@ -28,8 +28,8 @@ The book uses a **_project-based approach_**. and provides **_complete working c
 * **_Data Visualization_** - Android app loads data and displays a visualization of the data within a WebView control. The application uses the D3 Javascript library, and demonstrates several useful visualizations for machine learning.
 * **_Google Cloud Platform Cloud Speech API_** -.This Android application demonstrates access to deep learning functionality through a publicly available API.
 * **_Weka Android Port_** - This Eclipse project ports Weka version (stable 3.8.1) to Android, creating the Android-Weka-3-8-1.jar file. Android apps can then use the Weka API for loading, classifying, and clustering applications.
-* **_Android Model Creation_** - This Android project will demonstrate how to load data files into Android, and create a model for classification.
-* **_Android Model Loading_** - This Android project will demonstrate how to load a pre-trained model into Android. The model can classify samples. The app includes time stamping for model performance evaluation.
+* **_Weka Model Creation_** - This Android project will demonstrate how to load data files into Android, and create a model for classification.
+* **_Weka Model Loading_** - This Android project will demonstrate how to load a pre-trained model into Android. The model can classify samples. The app includes time stamping for model performance evaluation. https://github.com/wickapps/Weka-Model-Load
 * **_Raspberry Pi Old Faithful_** - This clustering project will use the Old Faithful geyser dataset and a Weka clustering model created in the book to implement a clustering application for Old Faithful on the Raspberry Pi device.
 * **_Android Activity Tracker_** - This large-scale classification project will use the PAMAP2_Dataset classification model from the book to implement an Android Activity Tracking app.
 
