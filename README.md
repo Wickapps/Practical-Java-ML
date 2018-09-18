@@ -1,8 +1,8 @@
 # Practical-Java-ML
 
-## Title: Practical Java Machine Learning
+### Title: Practical Java Machine Learning
 ### Subtitle: Projects with Google Cloud Platform and Amazon Web Services
-#### By: Mark Wickham
+### By: Mark Wickham
 ### https://www.apress.com/us/book/9781484239506
 
 ![](Wickham-Practical-Java-ML-Cover.jpg)
