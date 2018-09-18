@@ -24,14 +24,14 @@ This new book by author Mark Wickham explores Machine Learning with a goal to he
 
 # Project-Based approach
 The book uses a **_project-based approach_**. and provides **_complete working code_** for all of the projects.
-* **_D3 Visualization_** - This project will demonstrate how to produce data visualizations on the Desktop Browser using the D3 Javascript library.
-* **_Data Visualization_** - Android app loads data and displays a visualization of the data within a WebView control. The application uses the D3 Javascript library, and demonstrates several useful visualizations for machine learning.
-* **_Google Cloud Platform Cloud Speech API_** -.This Android application demonstrates access to deep learning functionality through a publicly available API.
-* **_Weka Android Port_** - This Eclipse project ports Weka version (stable 3.8.1) to Android, creating the Android-Weka-3-8-1.jar file. Android apps can then use the Weka API for loading, classifying, and clustering applications.
-* **_Weka Model Creation_** - This Android project will demonstrate how to load data files into Android, and create a model for classification.
+* **_D3 Visualization_** - This project will demonstrate how to produce data visualizations on the Desktop Browser using the D3 Javascript library. https://github.com/wickapps/D3-Visualization
+* **_Android Data Visualization_** - Android app loads data and displays a visualization of the data within a WebView control. The application uses the D3 Javascript library, and demonstrates several useful visualizations for machine learning.
+* **_Google Cloud Platform Cloud Speech API_** - This Android application demonstrates access to deep learning functionality through a publicly available API. https://github.com/wickapps/GCP_-Cloud-Speech-API
+* **_Weka Android Port_** - This Eclipse project ports Weka version (stable 3.8.1) to Android, creating the Android-Weka-3-8-1.jar file. Android apps can then use the Weka API for loading, classifying, and clustering applications. https://github.com/wickapps/Weka-Android-Port
+* **_Weka Model Creation_** - This Android project will demonstrate how to load data files into Android, and create a model for classification. https://github.com/wickapps/Weka-Model-Create
 * **_Weka Model Loading_** - This Android project will demonstrate how to load a pre-trained model into Android. The model can classify samples. The app includes time stamping for model performance evaluation. https://github.com/wickapps/Weka-Model-Load
-* **_Raspberry Pi Old Faithful_** - This clustering project will use the Old Faithful geyser dataset and a Weka clustering model created in the book to implement a clustering application for Old Faithful on the Raspberry Pi device.
-* **_Android Activity Tracker_** - This large-scale classification project will use the PAMAP2_Dataset classification model from the book to implement an Android Activity Tracking app.
+* **_Raspberry Pi Old Faithful_** - This clustering project will use the Old Faithful geyser dataset and a Weka clustering model created in the book to implement a clustering application for Old Faithful on the Raspberry Pi device. https://github.com/wickapps/Old-Faithful
+* **_Android Activity Tracker_** - This large-scale classification project will use the PAMAP2_Dataset classification model from the book to implement an Android Activity Tracking app. https://github.com/wickapps/Activity-Tracker
 
 # Who This Book Is For
 * Developers looking to implement ML solutions for Java platforms.
