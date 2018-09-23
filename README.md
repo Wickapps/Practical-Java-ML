@@ -39,7 +39,8 @@ The book uses a **_project-based approach_**. and provides **_complete working c
 * **_Raspberry Pi Old Faithful_** - This clustering project will use the Old Faithful geyser dataset and a Weka clustering model created in the book to implement a clustering application for Old Faithful on the Raspberry Pi device. https://github.com/wickapps/Old-Faithful
 * **_Android Activity Tracker_** - This large-scale classification project will use the PAMAP2_Dataset classification model from the book to implement an Android Activity Tracking app. https://github.com/wickapps/Activity-Tracker
 
-### https://www.apress.com/us/book/9781484239506
+# Available from Apress or Amazon
+https://www.apress.com/us/book/9781484239506
 
 # About the Author
 Mark Wickham is a frequent speaker at Android developer conferences and has written two books, Practical Android and Practical Java Machine Learning. As a a freelance Android developer, Mark currently resides in Dallas, TX after residing in China for most of the past 20 years. While at Motorola, Mark led product management, product marketing, and software development teams in the Asia Pacific region. Mark has a degree in Computer Science and Physics from Creighton University, and MBA from the University of Washington and studied at the Hong Kong University of Science and Technology. Mark is also active as a freelance video producer, photographer, and enjoys recording live music.
