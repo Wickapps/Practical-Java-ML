@@ -1,10 +1,7 @@
 # Practical-Java-ML
 
-### Practical Java Machine Learning: Projects with Google Cloud Platform and Amazon Web Services
-#### By: Mark Wickham
-### https://www.apress.com/us/book/9781484239506
-
 ![](Wickham-Practical-Java-ML-Cover.jpg)
+### https://www.apress.com/us/book/9781484239506
 
 # About the Book
 This new book by author Mark Wickham explores Machine Learning with a goal to help develpers leverage recent advances in this subfield of artificial intelligence, and deploy thier own machine learning solutions "at the edge". The "edge" refers to the ubiquitous devices we have with us all the time, such as mobile phones, or small embedded devices which collect much of todays increasingly important sensor data. The book will focus on the Java programming language and provide complete projects to help developers deploy machine learning solutions to these devices.
